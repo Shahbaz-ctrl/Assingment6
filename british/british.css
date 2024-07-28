@@ -1,0 +1,219 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.class2a{
+    display: none;
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.div2a{
+    background-color: #00a8ff;
+    height: 150px;
+    width: 250px;
+}
+.div2a:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2b{
+    background-color:#9c88ff;
+    height: 150px;
+    width: 250px;
+}
+.div2b:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2c{
+    background-color: #fbc531;
+    height: 150px;
+    width: 250px;
+}
+.div2c:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2d{
+    background-color: #4cd137;
+    height: 150px;
+    width: 250px;
+}
+.div2d:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2e{
+    background-color:#487eb0;
+    height: 150px;
+    width: 250px;
+}
+.div2e:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2f{
+    background-color: #0097e6;
+    height: 150px;
+    width: 250px;
+}
+.div2f:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2g{
+    background-color: #8c7ae6;
+    height: 150px;
+    width: 250px;
+}
+.div2g:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2h{
+    background-color:#e1b12c;
+    height: 150px;
+    width: 250px;
+}
+.div2h:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2i{
+    background-color: #44bd32;
+    height: 150px;
+    width: 250px;
+}
+.div2i:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2j{
+    background-color:#40739e;
+    height: 150px;
+    width: 250px;
+}
+.div2j:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2k{
+    background-color:#e84118;
+    height: 150px;
+    width: 250px;
+}
+.div2k:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2l{
+    background-color:#f5f6fa;
+    height: 150px;
+    width: 250px;
+}
+.div2l:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2m{
+    background-color: #7f8fa6;
+    height: 150px;
+    width: 250px;
+}
+.div2m:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2n{
+    background-color:#273c75;
+    height: 150px;
+    width: 250px;
+}
+.div2n:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2o{
+    background-color:#353b48;
+    height: 150px;
+    width: 250px;
+}
+.div2o:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2p{
+    background-color:#c23616;
+    height: 150px;
+    width: 250px;
+}
+.div2p:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2q{
+    background-color:#dcdde1;
+    height: 150px;
+    width: 250px;
+}
+.div2q:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2r{
+    background-color:#718093;
+    height: 150px;
+    width: 250px;
+}
+.div2r:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2s{
+    background-color:#192a56;
+    height: 150px;
+    width: 250px;
+}
+.div2s:hover .class2a{
+    display: block;
+    color: white;
+}
+  
+.div2t{
+    background-color:#2f3640;
+    height: 150px;
+    width: 250px;
+}
+.div2t:hover .class2a{
+    display: block;
+    color: white;
+}
+  

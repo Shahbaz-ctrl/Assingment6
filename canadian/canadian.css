@@ -1,0 +1,198 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.class3a{
+    display: none;
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.div3a{
+    background-color:#ff9ff3;
+    height: 150px;
+    width: 250px;
+}
+.div3a:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3b{
+    background-color:#feca57;
+    height: 150px;
+    width: 250px;
+}
+.div3b:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3c{
+    background-color:#ff6b6b;
+    height: 150px;
+    width: 250px;
+}
+.div3c:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3d{background-color:#48dbfb;
+    height: 150px;
+    width: 250px;
+}
+.div3d:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3e{
+    background-color: #1dd1a1;
+    height: 150px;
+    width: 250px;
+}
+.div3e:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3f{
+    background-color:#f368e0;
+    height: 150px;
+    width: 250px;
+}
+.div3f:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3g{
+    background-color:#ff9f43;
+    height: 150px;
+    width: 250px;
+}
+.div3g:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3h{
+    background-color: #ee5253;
+    height: 150px;
+    width: 250px;
+}
+.div3h:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3i{
+    background-color: #0abde3;
+    height: 150px;
+    width: 250px;
+}
+.div3i:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3j{
+    background-color: #10ac84;
+    height: 150px;
+    width: 250px;
+}
+.div3j:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3k{
+    background-color:#00d2d3;
+    height: 150px;
+    width: 250px;
+}
+.div3k:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3l{
+    background-color: #54a0ff;
+    height: 150px;
+    width: 250px;
+}
+.div3l:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3m{
+    background-color:#5f27cd;
+    height: 150px;
+    width: 250px;
+}
+.div3m:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3n{
+    background-color: #c8d6e5;
+    height: 150px;
+    width: 250px;
+}
+.div3n:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3o{
+    background-color:#576574;
+    height: 150px;
+    width: 250px;
+}
+.div3o:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3p{
+    background-color:#01a3a4;
+    height: 150px;
+    width: 250px;
+}
+.div3p:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3q{
+    background-color:#2e86de;
+    height: 150px;
+    width: 250px;
+}
+.div3q:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3r{
+    background-color:#341f97;
+    height: 150px;
+    width: 250px;
+}
+.div3r:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3s{
+    background-color:#8395a7;
+    height: 150px;
+    width: 250px;
+}
+.div3s:hover .class3a{
+    display: block;
+    color: white;
+}
+.div3t{
+    background-color:#222f3e;
+    height: 150px;
+    width: 250px;
+}
+.div3t:hover .class3a{
+    display: block;
+    color: white;
+}

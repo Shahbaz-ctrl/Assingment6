@@ -1,0 +1,196 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.class6a{
+    display: none;
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.div6a{
+    background-color:#fad390;
+    height: 150px;
+    width: 250px;
+}
+.div6a:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6b{
+    background-color: #f8c291;
+    height: 150px;
+    width: 250px;
+}
+.div6b:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6c{
+    background-color:#6a89cc;
+    height: 150px;
+    width: 250px;
+}
+.div6c:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6d{background-color:#82ccdd;
+    height: 150px;
+    width: 250px;
+}
+.div6d:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6e{
+    background-color:#b8e994;
+    height: 150px;
+    width: 250px;
+}
+.div6e:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6f{
+    background-color:#f6b93b;
+    height: 150px;
+    width: 250px;
+}
+.div6f:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6g{
+    background-color:#e55039;
+    height: 150px;
+    width: 250px;
+}
+.div6g:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6h{
+    background-color: #4a69bd;
+    height: 150px;
+    width: 250px;
+}
+.div6h:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6i{
+    background-color:#60a3bc;
+    height: 150px;
+    width: 250px;
+}
+.div6i:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6j{
+    background-color:#78e08f;
+    height: 150px;
+    width: 250px;
+}
+.div6j:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6k{
+    background-color: #fa983a;
+    height: 150px;
+    width: 250px;
+}
+.div6k:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6l{
+    background-color:#eb2f06;
+    height: 150px;
+    width: 250px;
+}
+.div6l:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6m{
+    background-color: #1e3799;
+    height: 150px;
+    width: 250px;
+}
+.div6m:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6n{
+    background-color: #3c6382;
+    height: 150px;
+    width: 250px;
+}
+.div6n:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6o{
+    background-color: #38ada9;
+    height: 150px;
+    width: 250px;
+}
+.div6o:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6p{
+    background-color:#e58e26;
+    height: 150px;
+    width: 250px;
+}
+.div6p:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6q{
+    background-color:#b71540;
+    height: 150px;
+    width: 250px;
+}
+.div6q:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6r{
+    background-color:#0c2461;
+    height: 150px;
+    width: 250px;
+}
+.div6r:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6s{
+    background-color: #0a3d62;
+    height: 150px;
+    width: 250px;
+}
+.div6s:hover .class6a{
+    display: block;
+    color: white;
+}
+.div6t{
+    background-color:#079992;
+    height: 150px;
+    width: 250px;
+}
+.div6t:hover .class6a{
+    display: block;
+    color: white;
+}
